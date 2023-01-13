@@ -1,6 +1,6 @@
-﻿States,Elec Consumption(in billion btu),Elec Consumption(in billion kwh)
-Arizona,1080000,316.5298945
-California,1640200,480.7151231
-Wyoming,502500,147.2743259
-New Mexico,322700,94.57796014
-Colorado,518300,151.905041
+﻿States,Elec Consumption(in billion btu),Elec Consumption(in billion kwh),,,,,,,,,,,,,,,,,
+Arizona,347300,0.278859131,,,,,,,,,,,,,,,,,
+California,1464900,1.176218659,,,,,,,,,,,,,,,,,
+Wyoming,62300,0.050022816,,,,,,,,,,,,,,,,,
+New Mexico,124900,0.100286511,,,,,,,,,,,,,,,,,
+Colorado,290200,0.233011574,,,,,,,,,,,,,,,,,
