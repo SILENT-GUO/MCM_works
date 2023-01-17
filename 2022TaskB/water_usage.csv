@@ -1,4 +1,4 @@
-﻿state,year,domestic,industrial,agriculture,livestock,aquaculture,irrigtaion,Total,unit
+﻿state,year,domestic,industrial,total,livestock,aquaculture,irrigtaion,Total,unit
 Arizona,2015,24,6.12,4602.27,38.87,34.52,4528.88,4632.39,Million Gallon/day
 California,2015,126.74,398.55,19646.21,183.13,480.12,18982.96,20171.5,Million Gallon/day
 Wyoming,2015,8.93,8.04,7832.89,16.17,28.84,7787.88,7849.86,Million Gallon/day
