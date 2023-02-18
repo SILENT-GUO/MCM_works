@@ -1,0 +1,8 @@
+﻿PLANT,Growth Rate,Lifetime(year),Suitable Moisture(inch/year),InnerCompetition
+Coastal Sage Scrub,0.03,100,10 20,0.4
+Chaparral,0.1,10,10 17,0.4
+Rhododendron,0.105,5,40 60,0.4
+Blue Grama,0.023,5,8 15,0.4
+Perennial ryegrass,0.04,1,32 40,0.4
+Desert Williow,0.08,40,12 20,0.4
+Redwood,0.011111111,2000,50 100,0.4
